@@ -5,4 +5,4 @@ Source code of OpenMaXwell.
 
 * Intel's MKL is used for fast QR matrix solutions. Depending on your MKL installation you must adapt the path to the MKL files (Project -> MaX Properties... -> Fortran and Linker sections)
 
-* Please refer to http://rossa-prod-warc01.ethz.ch:8080/openwayback/wayback/20181119092252/https://openmax.ethz.ch/ for the previous website of OpenMaxwell.
+* Please refer to https://rossa-prod-ap21.ethz.ch:8443/delivery/DeliveryManagerServlet?dps_pid=IE13673599 for the previous website of OpenMaxwell.
